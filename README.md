@@ -29,7 +29,7 @@ This project helps users manage daily tasks easily through an interactive menu s
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/muhso2002/todolist-python.git
+git clone https://github.com/muhso2002-max/latihanproject-todolist.git
 ```
 
 2. Run the program:
